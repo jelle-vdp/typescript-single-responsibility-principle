@@ -1,5 +1,7 @@
 # Single responsibility principle
 
+Description: fixing a bug filled Typescript file, you can find it as old.js in this repository. More info below.
+
 ## Theory
 A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
 That might sound very theoretic so look at the old.ts file and open the index.html file, you can see the software has some options to handle fuel, music and the engine.
