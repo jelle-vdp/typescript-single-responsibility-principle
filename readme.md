@@ -1,6 +1,7 @@
 # Single responsibility principle
 
-Description: fixing a bug filled Typescript file, you can find it as old.js in this repository. More info below.
+Description: fixing a bug filled Typescript file, you can find it as old.js in this repository. More info below.<br>
+Link: https://jelle-vdp.github.io/typescript-single-responsibility-principle/
 
 ## Theory
 A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
