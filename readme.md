@@ -1,6 +1,6 @@
 # Single responsibility principle
 
-Description: fixing a bug filled Typescript file, you can find it as old.js in this repository. More info below.<br>
+Description: fixing a bug filled Typescript file, you can find it as old.ts in this repository. More info below.<br>
 Link: https://jelle-vdp.github.io/typescript-single-responsibility-principle/
 
 ## Theory
